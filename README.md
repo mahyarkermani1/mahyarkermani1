@@ -1,100 +1,91 @@
-### Hi Guys At Home, I'm Mahyar <img src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/Hi.gif" width="22px">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZldGk3cm1maHhhcHRocjQyd3p4eWV4aWh5cnBqbnljbGNpaDdscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <h1>
+    Hey, I'm Mahyar Kermani! 👋
+  </h1>
+</div>
+
+<div align="center">
+  <p>
+    Just a backend dev who turns coffee into code and hunts for bugs in the digital wilderness. 🐛🏹<br />
+    I build things for the web, dive deep into Linux, and believe that every bug is just a feature in disguise... right? 😉
+  </p>
+</div>
 
 ---
 
-<br />
+## 🚀 About Me
 
-- 💻 Currently I'm working as a Help Desk
-- 🏹 I'm learning Security Bug Hunty
-- ⛱️ I code for fun
-- 😄 Pronouns: He/Him
-- ⚡ Slogan: To progress, you must move
+I'm a developer who loves solving puzzles, whether that's architecting a robust backend, squashing a tricky bug, or hunting for vulnerabilities. My main quest is to build cool stuff and contribute to the open-source world.
 
-<br />
+-   💻 I'm fluent in **Python**, **SQL**, and the **Flask** framework for backend magic.
+-   🎨 I also dabble in the full stack with **HTML**, **CSS**, and **JavaScript**.
+-   🛡️ Currently leveling up my skills in **Bug Bounty Hunting** and **Cybersecurity**.
+-   🐧 A proud **Linux** user and advocate for all things **Open Source**.
+-   🤝 Looking to collaborate on open-source projects, especially in the security space. Hit me up if you're building something cool!
 
-### 🧰 Languages and Tools:
+## 🛠️ My Tech Stack (The Tools I Use)
 
-<img align="left" alt="Python" width="26px" src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/mahyarkermani1/mahyarkermani1/blob/master/Assets/github.png" />
-
-<br />
-<br />
-
-
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mahyarkermani1&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-
-
-<!--   Stats -->
-### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=mahyarkermani1&theme=nord&show_icons=true&count_private=true)
-  
-  
-<!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahyarkermani1&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahyarkermani1&theme=nord_dark)
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahyarkermani1&theme=github)](https://github.com/mahyarkermani1)
-
- <br>
- <br>
-
- 
- <hr>
- 
- <br>
-
-  <div align="center">
-  <h3><b>📌 Can Connect With Me On</b></h3>
-  </div>
 <p align="center">
-  <a href="mailto:mohammadmahyarkermani@gmail.com" target="_blank">
-  <img align="center" alt="Website" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img align="center" alt="Website" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/mahyarkermani2" target="_blank">
-  <img align="center" alt="Darshan R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/mahyarkermani2/" target="_blank">
-  <img align="center" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/mahyarkermani1/">
-    <img align="center" alt="Github" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/github.gif" />
-</a> &nbsp;&nbsp;
-<a href="https://discordapp.com/users/1334483578716684333">
-    <img align="center" alt="Github" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>&nbsp;&nbsp;
-<a href="https://t.me/mahyarkermani1/">
-    <img align="center" alt="Github" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
-</a>
-<p>
-
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/mahyarkermani1/count.svg" />  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
-   
 
-  
+---
+
+## ✨ Pinned Projects
+
+Here you can see a list of projects I am currently working on.
+
+<p align="center">
+  <a href="https://github.com/mahyarkermani1/StatusEye">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahyarkermani1&repo=StatusEye&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+Here are some stats about my activity. I'm not lazy, I'm just on energy-saving mode. 🔋
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahyarkermani1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarkermani1&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out. I'm always open to connecting with fellow developers and security enthusiasts! You can also check out my website for more about what I do.
+
+<p align="center">
+  <a href="https://mahyar.sbs" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://github.com/mahyarkermani1/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mohammadmahyarkermani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/mahyarkermani2" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/mahyarkermani2/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/mahyarkermani1/" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discordapp.com/users/1334483578716684333" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
