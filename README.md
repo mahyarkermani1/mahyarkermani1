@@ -18,11 +18,16 @@
 
 I'm a developer who loves solving puzzles, whether that's architecting a robust backend, squashing a tricky bug, or hunting for vulnerabilities. My main quest is to build cool stuff and contribute to the open-source world.
 
--   💻 I'm fluent in **Python**, **SQL**, and the **Flask** framework for backend magic.
--   🎨 I also dabble in the full stack with **HTML**, **CSS**, and **JavaScript**.
--   🛡️ Currently leveling up my skills in **Bug Bounty Hunting** and **Cybersecurity**.
--   🐧 A proud **Linux** user and advocate for all things **Open Source**.
--   🤝 Looking to collaborate on open-source projects, especially in the security space. Hit me up if you're building something cool!
+💻 I'm fluent in **Python**, **SQL**, and the **Flask** framework for backend magic.
+
+🎨 I also dabble in the full stack with **HTML**, **CSS**, and **JavaScript**.
+
+🛡️ Currently leveling up my skills in **Bug Bounty Hunting** and **Cybersecurity**.
+
+🐧 A proud **Linux** user and advocate for all things **Open Source**.
+
+🤝 Looking to collaborate on open-source projects, especially in the security space. Hit me up if you're building something cool!
+
 
 ## 🛠️ My Tech Stack (The Tools I Use)
 
