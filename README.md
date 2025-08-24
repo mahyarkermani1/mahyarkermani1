@@ -44,6 +44,12 @@ I'm a developer who loves solving puzzles, whether that's architecting a robust 
 Here you can see a list of projects I am currently working on.
 
 <p align="center">
+  <a href="https://github.com/mahyarkermani1/NetGlimpse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahyarkermani1&repo=NetGlimpse&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/mahyarkermani1/StatusEye">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahyarkermani1&repo=StatusEye&theme=tokyonight&show_owner=true" />
   </a>
